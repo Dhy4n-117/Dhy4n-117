@@ -12,12 +12,25 @@ I build intelligent, resilient systems focused on GenAI architecture, RAG, and h
 
 ### 🛠️ Skills
 
-**AI & Machine Learning** `RAG Architecture` `GraphRAG` `LangChain` `LlamaIndex` `PyTorch` `TensorFlow` `Scikit-Learn` `NLP`
+**AI & Machine Learning**
+![RAG](https://img.shields.io/badge/RAG-Architecture-blue?style=flat-square&logo=ai)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**Backend & Databases** `Python (FastAPI)` `C++` `Multi-threading` `REST APIs` `Neo4j` `Qdrant` `PostgreSQL` `Redis`
+**Backend & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**DevOps & Tools** `AWS (S3, SageMaker)` `Azure AI` `Docker` `Kubernetes` `GitHub Actions` `Linux`
-
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ---
 
 ### 🚀 Projects
@@ -35,7 +48,27 @@ A curated list of my work in AI, automation, and security.
 
 ---
 
+### 🛠️ Tech Stack
 
+**AI & Machine Learning**
+![RAG](https://img.shields.io/badge/RAG-Architecture-blue?style=for-the-badge&logo=ai)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+**Backend & Cloud**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+**Cybersecurity**
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Foundations-red?style=for-the-badge&logo=target)
+![NetworkScanning](https://img.shields.io/badge/Network-Scanning-gray?style=for-the-badge&logo=wireshark)
+
+---
 ### 🔗 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhyan-m) 
 [<img src="https://img.shields.io/badge/CodeForces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />](https://codeforces.com/profile/Dhyan_117)
