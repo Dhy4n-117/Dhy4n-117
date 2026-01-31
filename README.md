@@ -1,4 +1,4 @@
-# Hi, I'm Dhyanamurthy M 👋 
+# Hi, I'm Dhyan M 👋 
 
 I build intelligent, resilient systems focused on GenAI architecture, RAG, and high-performance backends.
 
