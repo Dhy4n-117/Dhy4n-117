@@ -2,8 +2,8 @@
 
 I build intelligent, resilient systems focused on GenAI architecture, RAG, and high-performance backends.
 
-- 🌍 I'm based in Bangalore, India.
-- 🎓 I'm a CSE (AIML) student at RNS Institute of Technology (2022-2026)
+- 🌍 I'm based in Bengaluru, India.
+- 🎓 I'm an AIML student at RNS Institute of Technology (2022-2026)
 - 🧠 I'm currently deep-diving into **GraphRAG** and **Agentic Workflows**.
 - 🤝 I'm open to collaborating on AI/ML and Cybersecurity projects.
 - ⚡ Delivering production-ready solutions with 99.9% uptime.
