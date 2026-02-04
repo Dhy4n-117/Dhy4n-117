@@ -62,17 +62,16 @@ I build intelligent, resilient systems focused on GenAI architecture, RAG, and h
 
 ---
 ### 🚀 Projects
-A curated list of my work in AI, automation, and security.
 
-| Project Name | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **CodeGraph AI** | Autonomous DevOps agent that maps legacy codebases using AST parsers and GraphRAG. | Python, React-Flow, Gemini | [GitHub](https://github.com/Dhy4n-117/CodeGraph) |
-| **Advanced Sentiment Analysis** | Multi-modal NLP app analyzing text, audio, and video using roBERTa and VADER. | OpenAI-Whisper, PyTorch, Spacy | [GitHub](https://github.com/Dhy4n-117/Sentiment-Analysis) |
-| **AI-Powered SOC Analyst** | Local, privacy-first threat intelligence platform using RAG and MITRE ATT&CK. | React, FastAPI, Ollama | [GitHub](https://github.com/Dhy4n-117/AI_SOC_Analyst) |
-| **Deep Hedging RL** | Autonomous derivative hedging agent using Distributional RL (TQC) and Transformers. | Python, PyTorch | [GitHub](https://github.com/Dhy4n-117/Deep-Hedging-with-Distributional-Reinforcement-Learning) |
-| **ViperScan** | Multi-threaded network reconnaissance tool reducing scan time by 90%. | Python, Socket Programming | [GitHub](https://github.com/Dhy4n-117/ViperScan) |
-| **Deep Audio Classifier** | CNN-based pipeline for automated classification of sound events from spectrograms. | TensorFlow, Librosa, Keras | [GitHub](https://github.com/Dhy4n-117/Deep-Audio-Classifier) |
-| **DeepDub** | AI video dubbing pipeline: Transcription (Whisper) -> Translation -> Voice Cloning. | Python, Whisper, XTTS | [GitHub](https://github.com/Dhy4n-117/DeepDub) |
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **CodeGraph AI** 🕸️ | Autonomous DevOps agent mapping legacy codebases via AST parsers & **GraphRAG**. | `Python` `React-Flow` `Gemini` | [🔗](https://github.com/Dhy4n-117/CodeGraph) |
+| **Sentiment Analysis**  | Multi-modal NLP app analyzing text, audio, & video using **roBERTa** & **VADER**. | `OpenAI-Whisper` `PyTorch` `Spacy` | [🔗](https://github.com/Dhy4n-117/Sentiment-Analysis) |
+| **SOC Analyst AI** 🛡️ | Privacy-first threat intelligence platform using RAG & **MITRE ATT&CK**. | `React` `FastAPI` `Ollama` | [🔗](https://github.com/Dhy4n-117/AI_SOC_Analyst) |
+| **Deep Hedging RL** 📉 | Autonomous derivative hedging agent using **Distributional RL (TQC)** & Transformers. | `Python` `PyTorch` `Transformers` | [🔗](https://github.com/Dhy4n-117/Deep-Hedging-with-Distributional-Reinforcement-Learning) |
+| **ViperScan** 🐍 | Multi-threaded network reconnaissance tool reducing scan time by **90%**. | `Python` `Socket` `Scapy` | [🔗](https://github.com/Dhy4n-117/ViperScan) |
+| **DeepAudio Classifier**  | CNN-based pipeline for automated classification of sound events from **spectrograms**. | `TensorFlow` `Librosa` `Keras` | [🔗](https://github.com/Dhy4n-117/Deep-Audio-Classifier) |
+| **DeepDub** 🎙️ | AI video dubbing pipeline: **Transcription** (Whisper) -> Translation -> **Voice Cloning**. | `Python` `Whisper` `XTTS` | [🔗](https://github.com/Dhy4n-117/DeepDub) |
 
 ---
 
