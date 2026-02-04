@@ -12,8 +12,50 @@ I build intelligent, resilient systems focused on GenAI architecture, RAG, and h
 
 ### 🛠️ Skills
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,postgres,redis,aws,docker,kubernetes,githubactions,linux,html,github" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit-Learn" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="Actions" />
+  </a>
+  <a href="https://neo4j.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=neo4j" height="40" alt="Neo4j" />
   </a>
 </div>
 
