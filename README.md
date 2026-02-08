@@ -65,6 +65,7 @@ I build intelligent, resilient systems focused on GenAI architecture, RAG, and h
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
+| **Autonomous Risk Agent** | A self-hosted autonomous AI agent that monitors third-party vendor risks using **n8n**. | `n8n` `Docker` `PostgreSQL` | [🔗](https://github.com/Dhy4n-117/autonomous-risk-agent) |
 | **CodeGraph AI** 🕸️ | Autonomous DevOps agent mapping legacy codebases via AST parsers & **GraphRAG**. | `Python` `React-Flow` `Gemini` | [🔗](https://github.com/Dhy4n-117/CodeGraph) |
 | **Sentiment Analysis**  | Multi-modal NLP app analyzing text, audio, & video using **roBERTa** & **VADER**. | `OpenAI-Whisper` `PyTorch` `Spacy` | [🔗](https://github.com/Dhy4n-117/Sentiment-Analysis) |
 | **SOC Analyst AI** 🛡️ | Privacy-first threat intelligence platform using RAG & **MITRE ATT&CK**. | `React` `FastAPI` `Ollama` | [🔗](https://github.com/Dhy4n-117/AI_SOC_Analyst) |
