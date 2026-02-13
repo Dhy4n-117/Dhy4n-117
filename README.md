@@ -97,6 +97,3 @@ I build intelligent, resilient systems focused on GenAI architecture, RAG, and h
 ![NetworkScanning](https://img.shields.io/badge/Network-Scanning-gray?style=for-the-badge&logo=wireshark)
 
 ---
-### 🔗 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhyan-m) 
-[<img src="https://img.shields.io/badge/CodeForces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />](https://codeforces.com/profile/Dhyan_117)
