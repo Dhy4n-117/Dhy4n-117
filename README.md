@@ -73,8 +73,9 @@ I build intelligent, resilient systems focused on GenAI architecture, RAG, and h
 | **ViperScan** 🐍 | Multi-threaded network reconnaissance tool reducing scan time by **90%**. | `Python` `Socket` `Scapy` | [🔗](https://github.com/Dhy4n-117/ViperScan) |
 | **DeepAudio Classifier**  | CNN-based pipeline for automated classification of sound events from **spectrograms**. | `TensorFlow` `Librosa` `Keras` | [🔗](https://github.com/Dhy4n-117/Deep-Audio-Classifier) |
 | **DeepDub** | AI video dubbing pipeline: **Transcription** (Whisper) -> Translation -> **Voice Cloning**. | `Python` `Whisper` `XTTS` | [🔗](https://github.com/Dhy4n-117/DeepDub) |
-| **TalentFlow** | Responsive *Applicant Tracking System* (ATS) featuring a Kanban-style workflow**. | `HTML` `CSS` `JS` | [🔗](https://dhy4n-117.github.io/TalentFlow/) |
-| **DecibelDestroyer** | A content-based recommendation engine for heavy metal bands, forged in blood and code. | `Python` | [🔗](https://github.com/Dhy4n-117/decibel-destroyer)
+| **TalentFlow** | Responsive *Applicant Tracking System* (ATS) featuring a Kanban-style workflow. | `HTML` `CSS` `JS` | [🔗](https://dhy4n-117.github.io/TalentFlow/) |
+| **DecibelDestroyer** | A content-based recommendation engine for heavy metal bands, forged in blood and code. | `Python` | [🔗](https://github.com/Dhy4n-117/decibel-destroyer) |
+| **OmniRecon** | An asynchronous reconnaissance framework designed for bug bounties. | `Python` | [🔗](https://github.com/Dhy4n-117/OmniRecon) |
  ---
 
 ### Tech Stack
