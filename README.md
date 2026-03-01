@@ -76,6 +76,7 @@ I build intelligent, resilient systems focused on GenAI architecture, RAG, and h
 | **TalentFlow** | Responsive *Applicant Tracking System* (ATS) featuring a Kanban-style workflow. | `HTML` `CSS` `JS` | [🔗](https://dhy4n-117.github.io/TalentFlow/) |
 | **DecibelDestroyer** | A content-based recommendation engine for heavy metal bands, forged in blood and code. | `Python` | [🔗](https://github.com/Dhy4n-117/decibel-destroyer) |
 | **OmniRecon** | An asynchronous reconnaissance framework designed for bug bounties. | `Python` | [🔗](https://github.com/Dhy4n-117/OmniRecon) |
+| **WordWeaver** | A custom, interactive wordlist generator for personalized dictionary attacks and password cracking. |`Python3` `BruteForce`| [🔗](https://github.com/Dhy4n-117/WordWeaver) |
  ---
 
 ### Tech Stack
