@@ -2,15 +2,15 @@
 
 I build intelligent, resilient systems focused on GenAI architecture, RAG, and high-performance backends.
 
-- 🌍 I'm based in Bengaluru, India.
-- 🎓 I'm an AIML student at RNS Institute of Technology (2022-2026)
-- 🧠 I'm currently deep-diving into **GraphRAG** and **Agentic Workflows**.
-- 🤝 I'm open to collaborating on AI/ML and Cybersecurity projects.
-- ⚡ Delivering production-ready solutions with 99.9% uptime.
+- I'm based in Bengaluru, India.
+- I'm an AIML student at RNS Institute of Technology (2022-2026)
+- I'm currently deep-diving into **GraphRAG** and **Agentic Workflows**.
+- I'm open to collaborating on AI/ML and Cybersecurity projects.
+- Delivering production-ready solutions with 99.9% uptime.
 
 ---
 
-### 🛠️ Skills
+### Skills
 <div align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
@@ -61,7 +61,7 @@ I build intelligent, resilient systems focused on GenAI architecture, RAG, and h
 
 
 ---
-### 🚀 Projects
+### Projects
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
@@ -72,11 +72,11 @@ I build intelligent, resilient systems focused on GenAI architecture, RAG, and h
 | **Deep Hedging RL** 📉 | Autonomous derivative hedging agent using **Distributional RL (TQC)** & Transformers. | `Python` `PyTorch` `Transformers` | [🔗](https://github.com/Dhy4n-117/Deep-Hedging-with-Distributional-Reinforcement-Learning) |
 | **ViperScan** 🐍 | Multi-threaded network reconnaissance tool reducing scan time by **90%**. | `Python` `Socket` `Scapy` | [🔗](https://github.com/Dhy4n-117/ViperScan) |
 | **DeepAudio Classifier**  | CNN-based pipeline for automated classification of sound events from **spectrograms**. | `TensorFlow` `Librosa` `Keras` | [🔗](https://github.com/Dhy4n-117/Deep-Audio-Classifier) |
-| **DeepDub** 🎙️ | AI video dubbing pipeline: **Transcription** (Whisper) -> Translation -> **Voice Cloning**. | `Python` `Whisper` `XTTS` | [🔗](https://github.com/Dhy4n-117/DeepDub) |
+| **DeepDub** | AI video dubbing pipeline: **Transcription** (Whisper) -> Translation -> **Voice Cloning**. | `Python` `Whisper` `XTTS` | [🔗](https://github.com/Dhy4n-117/DeepDub) |
 | **TalentFlow** | Responsive *Applicant Tracking System* (ATS) featuring a Kanban-style workflow**. | `HTML` `CSS` `JS` | [🔗](https://dhy4n-117.github.io/TalentFlow/) |
  ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **AI & Machine Learning**
 ![RAG](https://img.shields.io/badge/RAG-Architecture-blue?style=for-the-badge&logo=ai)
