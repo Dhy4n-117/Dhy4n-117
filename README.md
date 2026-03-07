@@ -1,7 +1,7 @@
 # Hi, I'm Dhyan 👋 
 
 I build intelligent, resilient systems focused on GenAI architecture, RAG, and high-performance backends.
-
+ 
 - I'm based in Bengaluru, India.
 - I'm an AIML student at RNS Institute of Technology (2022-2026)
 - I'm currently deep-diving into **GraphRAG** and **Agentic Workflows**.
