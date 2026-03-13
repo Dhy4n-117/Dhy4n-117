@@ -1,4 +1,4 @@
-# Hi, I'm Dhyan 👋   
+# Hi, I'm Dhyan 👋
 
 I build intelligent, resilient systems focused on GenAI architecture, RAG, and high-performance backends.
  
