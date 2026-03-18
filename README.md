@@ -78,6 +78,8 @@ I build intelligent, resilient systems focused on GenAI architecture, RAG, and h
 | **OmniRecon** | An asynchronous reconnaissance framework designed for bug bounties. | `Python` | [🔗](https://github.com/Dhy4n-117/OmniRecon) |
 | **WordWeaver** | A custom, interactive wordlist generator for personalized dictionary attacks and password cracking. |`Python3` `BruteForce`| [🔗](https://github.com/Dhy4n-117/WordWeaver) |
 | **OmniAuth** | A clean, fast, and multi-threaded authentication tester for SSH and FTP protocols written in Python. | `Python` | [🔗](https://github.com/Dhy4n-117/OmniAuth) |
+| **Gemini AI for Excel** | AI assistant for Microsoft Excel, powered by Google Gemini 2.5 Flash. | `JavaScript` `Gemini` | [🔗](https://github.com/Dhy4n-117/Gemini-Excel-Addin-Toolkit) |
+
  ---
 
 ### Tech Stack
