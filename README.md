@@ -66,6 +66,7 @@ I build intelligent, resilient systems focused on GenAI architecture, RAG, and h
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
 | **Autonomous TPRM Agent** | A self-hosted autonomous AI agent that monitors third-party vendor risks using **n8n**. | `n8n` `Docker` `PostgreSQL` | [🔗](https://github.com/Dhy4n-117/autonomous-risk-agent) |
+| **KRYPTOS** | Advanced decrypter and decipher tool | `Cryptography` `Decrypter` | [🔗](https://github.com/Dhy4n-117/Kryptos) |
 | **CodeGraph AI** 🕸️ | Autonomous DevOps agent mapping legacy codebases via AST parsers & **GraphRAG**. | `Python` `React-Flow` `Gemini` | [🔗](https://github.com/Dhy4n-117/CodeGraph) |
 | **Sentiment Analysis**  | Multi-modal NLP app analyzing text, audio, & video using **roBERTa** & **VADER**. | `OpenAI-Whisper` `PyTorch` `Spacy` | [🔗](https://github.com/Dhy4n-117/Sentiment-Analysis) |
 | **SOC Analyst AI** 🛡️ | Privacy-first threat intelligence platform using RAG & **MITRE ATT&CK**. | `React` `FastAPI` `Ollama` | [🔗](https://github.com/Dhy4n-117/AI_SOC_Analyst) |
@@ -79,6 +80,10 @@ I build intelligent, resilient systems focused on GenAI architecture, RAG, and h
 | **WordWeaver** | A custom, interactive wordlist generator for personalized dictionary attacks and password cracking. |`Python3` `BruteForce`| [🔗](https://github.com/Dhy4n-117/WordWeaver) |
 | **OmniAuth** | A clean, fast, and multi-threaded authentication tester for SSH and FTP protocols written in Python. | `Python` | [🔗](https://github.com/Dhy4n-117/OmniAuth) |
 | **Gemini AI for Excel** | AI assistant for Microsoft Excel, powered by Google Gemini 2.5 Flash. | `JavaScript` `Gemini` | [🔗](https://github.com/Dhy4n-117/Gemini-Excel-Addin-Toolkit) |
+| **Vanguard** | Open Source Knowledge-First Data OS for Cybersecurity | `Python` `Next.js` | [🔗](https://github.com/Dhy4n-117/Vanguard) |
+| **StudyAI** | A professional, full-stack AI-powered study platform | `AI` `Gemini` `React` | [🔗](https://github.com/Dhy4n-117/StudyAI) |
+
+
 
  ---
 
